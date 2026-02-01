@@ -1,3 +1,7 @@
+# Student Information Card
+#This program displays a formatted profile card with student detils
+# Including name, major, graduation year, contact info, and favorite course
+
 name = "John Doe"
 major = "Information Technology"
 graduation_year = 2025
